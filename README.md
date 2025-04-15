@@ -60,9 +60,10 @@ python data_consumer/consumer.py
 ```
 
 ### Contribuição
-```Caso deseje contribuir com o projeto e meu aprendizado, seria muito bom!```
+Caso deseje contribuir com o projeto e meu aprendizado, seria de grande ajuda!
 
 ###👨‍💻 Autor
 Arthur Moura
 Estudante de Engenharia de Dados |
-🔗 [LinkedIn]: <https://www.linkedin.com/in/arthurmoura233/>
+🔗 🔗 [LinkedIn](https://www.linkedin.com/in/arthurmoura233/)
+
