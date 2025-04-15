@@ -1,4 +1,4 @@
-# 💹 Cripto Dash Streaming
+# Cripto Dash Streaming
 
 Um sistema de ingestão, processamento e visualização de dados em tempo real para transações de criptomoedas, utilizando Kafka, PostgreSQL, Streamlit e outras tecnologias modernas de dados.
 
@@ -37,24 +37,24 @@ Este projeto simula um pipeline completo de engenharia de dados em tempo real, c
 ## 🔧 Como Rodar o Projeto
 
 ### 1. Clone o repositório
-```bash
+```terminal
 git clone https://github.com/Arthurss123/cripto-dash-streaming.git
 cd cripto-dash-streaming
 ```
 
 ### 2. Instale as dependências
-```Terminal
+```terminal
 pip install -r requirements.txt
 ```
 
 ### 3. Suba o servidor Kafka e PostgreSQL
-```terminal
 Você pode usar Docker ou subir localmente. Exemplo com Docker
+```terminal
 docker-compose up -d
 ```
 
 ### 4. Rode o producer e o consumer
-```Terminal
+```terminal
 python data_producer/producer.py
 python data_consumer/consumer.py
 ```
