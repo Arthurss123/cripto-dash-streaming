@@ -65,4 +65,4 @@ python data_consumer/consumer.py
 ###👨‍💻 Autor
 Arthur Moura
 Estudante de Engenharia de Dados |
-🔗 LinkedIn <https://www.linkedin.com/in/arthurmoura233/>
+🔗 [LinkedIn]: <https://www.linkedin.com/in/arthurmoura233/>
