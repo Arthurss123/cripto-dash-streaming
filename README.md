@@ -43,7 +43,8 @@ cd cripto-dash-streaming
 ```
 
 ### 2. Instale as dependências
-```pip install -r requirements.txt
+```Terminal
+pip install -r requirements.txt
 ```
 
 ### 3. Suba o servidor Kafka e PostgreSQL
@@ -60,3 +61,8 @@ python data_consumer/consumer.py
 
 ### Contribuição
 ```Caso deseje contribuir com o projeto e meu aprendizado, seria muito bom!```
+
+###👨‍💻 Autor
+Arthur Moura
+Estudante de Engenharia de Dados |
+🔗 LinkedIn <https://www.linkedin.com/in/arthurmoura233/>
