@@ -59,6 +59,20 @@ python data_producer/producer.py
 python data_consumer/consumer.py
 ```
 
+Este projeto demonstra um pipeline moderno de ingestão e análise de dados em tempo real, algo essencial para empresas que:
+
+- Desejam **detectar comportamentos anômalos ou suspeitos** em transações.
+- Buscam **dashboards interativos em tempo real** para setores como BI (Business Intelligence) e DataOps.
+- Estão migrando para **arquiteturas orientadas a eventos (event-driven)** com Kafka.
+- Precisam de soluções que integrem **diversas camadas (streaming, banco, visualização)** com ferramentas modernas como Streamlit e Plotly.
+
+💡 Além disso, o projeto pode ser facilmente adaptado para outros contextos além de criptomoedas, como:
+
+- Log de sistemas
+- Dados de sensores (IoT)
+- Análise de redes sociais em tempo real
+- Rastreamento logístico e de pedidos
+
 ### Contribuição
 Caso deseje contribuir com o projeto e meu aprendizado, seria de grande ajuda!
 
